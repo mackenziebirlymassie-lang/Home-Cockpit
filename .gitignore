@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Editor files
+.vscode/
+.idea/
+
+# Local data & logs
+*.log
+scratchpad.txt
